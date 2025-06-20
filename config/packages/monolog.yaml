@@ -1,0 +1,9 @@
+monolog:
+    channels: ['conversion']
+
+    handlers:
+        conversion:
+            type: stream
+            path: '%kernel.logs_dir%/conversion_errors.log'
+            level: error
+            channels: ['conversion']
