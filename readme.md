@@ -1,4 +1,4 @@
-# Inventis Test
+# Upload converter Test
 Deze demo voorziet een pagina voor een CSV of XLSX bestand op te laden en dit om te zetten naar het andere formaat.
 
 ### Gebruik
